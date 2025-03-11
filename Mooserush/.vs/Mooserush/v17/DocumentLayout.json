@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Mooserush\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|d:\\unity\\mooserush\\assets\\animalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\animalhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|D:\\Unity\\Mooserush\\assets\\playergamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\playergamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|D:\\Unity\\Mooserush\\assets\\bullercollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\bullercollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|d:\\unity\\mooserush\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|D:\\Unity\\Mooserush\\assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|D:\\Unity\\Mooserush\\assets\\playercollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\playercollisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|D:\\Unity\\Mooserush\\assets\\animalspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\animalspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|D:\\Unity\\Mooserush\\assets\\foodmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083BFAF7-F702-C424-59B3-F196D115616A}|Assembly-CSharp.csproj|solutionrelative:assets\\foodmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalHealth.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\AnimalHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimalHealth.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\AnimalHealth.cs",
+              "RelativeToolTip": "Assets\\AnimalHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:48:08.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerGameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\PlayerGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerGameManager.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\PlayerGameManager.cs",
+              "RelativeToolTip": "Assets\\PlayerGameManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:43:36.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOver.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\GameOver.cs",
+              "RelativeToolTip": "Assets\\GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:18:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerCollisionHandler.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\PlayerCollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCollisionHandler.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\PlayerCollisionHandler.cs",
+              "RelativeToolTip": "Assets\\PlayerCollisionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:06:40.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BullerCollisionHandler.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\BullerCollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\BullerCollisionHandler.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\BullerCollisionHandler.cs",
+              "RelativeToolTip": "Assets\\BullerCollisionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:06:36.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalSpawner.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\AnimalSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimalSpawner.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\AnimalSpawner.cs",
+              "RelativeToolTip": "Assets\\AnimalSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:37:11.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodMovement.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\FoodMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\FoodMovement.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\FoodMovement.cs",
+              "RelativeToolTip": "Assets\\FoodMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:48:11.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity\\Mooserush\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\Unity\\Mooserush\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwC8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:34:54.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
